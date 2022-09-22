@@ -10,9 +10,11 @@
 
 ## 🔨 Principais aprendizados
 
-- `1`: Números, pontos flutuantes e NaN.
-- `2`: Declarando string, concatenação de strings e manupulando strings.
-- `3`: Boolean: comparações True ou False
+- `1`: Declarando variáveis do tipo number. Inteiros, pontos flutuantes e NaN.
+- `2`: Declarando variáveis do tipo string (variável de texto), concatenação de strings e manupulando strings.
+- `3`: Boolean: comparações True ou False e operadores de comparação.
+- `4`: Tipos de variáveis: var, let e const.
+- `5`: Truthy, falsy, null e undefined.
 
 ## ✔️ Tecnologias utilizadas
 
