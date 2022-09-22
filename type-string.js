@@ -1,6 +1,6 @@
 const texto1 = 'Olá mundo!';
 const texto2 = "Olá mundo!";
-const senha = 'senhaSuperSegura456!';
+const senha1 = 'senhaSuperSegura456!';
 const stringDeNumeros = '64567';
 
 // Aspas simples ou dupla tem a mesma finalidade de declarar uma string
@@ -16,3 +16,25 @@ const meuNome = 'Meu nome é ';
 const nome = 'Leandro';
 
 console.log(meuNome + nome); // Concatenando as variáveis
+
+
+// Testes com códigos Unicode
+const cifrao = '\u0024'
+const tique = '\u2705'
+const hiragana = '\u3041'
+const aMaiusculo = '\u0041'
+console.log(cifrao, tique, hiragana, aMaiusculo);
+
+
+// Manipulando strings
+const cidade = "belo horizonte";
+const input = "Belo Horizonte";
+
+console.log(cidade === input); // false (o JavaScript diferencia minúsculas e maiúsculas, tanto nos valores dos dados quanto no código que escrevemos.)
+
+const inputMinusculo = input.toLowerCase();
+
+console.log(cidade === inputMinusculo); // true (O toLowerCase() converte todos os caracteres da string informada (no caso, input) para letras minúsculas (se forem algarismos, nada é convertido).)
+
+const senha = "minhaSenha123"
+console.log(senha.length) // 13 caracteres (A propriedade length pode ser utilizada para sabermos quantos caracteres uma string contém)

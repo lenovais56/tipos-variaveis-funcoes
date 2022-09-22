@@ -10,9 +10,9 @@
 
 ## 🔨 Principais aprendizados
 
-- `1`: Números, pontos flutuantes e NaN
-- `2`: Declarando string e concatenação de strings
-- `3`: Números, pontos flutuantes e NaN
+- `1`: Números, pontos flutuantes e NaN.
+- `2`: Declarando string, concatenação de strings e manupulando strings.
+- `3`: 
 
 ## ✔️ Tecnologias utilizadas
 
