@@ -1,6 +1,6 @@
 <h1 align="center" font-size="bold"> Curso Javascript - Tipos, variáveis e funções </h1>
 
-# Resumo do projeto
+# Resumo do curso
 
 <p>
   
@@ -11,7 +11,7 @@
 ## 🔨 Principais aprendizados
 
 - `1`: Números, pontos flutuantes e NaN
-- `2`: Números, pontos flutuantes e NaN
+- `2`: Declarando string e concatenação de strings
 - `3`: Números, pontos flutuantes e NaN
 
 ## ✔️ Tecnologias utilizadas
