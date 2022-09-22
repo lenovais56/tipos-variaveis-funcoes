@@ -12,7 +12,7 @@
 
 - `1`: Números, pontos flutuantes e NaN.
 - `2`: Declarando string, concatenação de strings e manupulando strings.
-- `3`: 
+- `3`: Boolean: comparações True ou False
 
 ## ✔️ Tecnologias utilizadas
 
