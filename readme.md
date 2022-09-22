@@ -23,3 +23,5 @@
 ## 💻 Link do curso
 
 https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
+
+## 📃 Link do certificado
