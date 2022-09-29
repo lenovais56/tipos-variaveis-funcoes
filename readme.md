@@ -20,6 +20,8 @@
 
 - ``JavaScript``
 - ``NodeJS``
+- ``Git``
+- ``GitHub``
 - ``VS code``
 
 ## 💻 Link do curso

@@ -11,6 +11,11 @@ console.log(numero + numeroString); // 456456 - concatenou o number (456) com a 
 //conversão explicita - ex: 
 
 //Number() - pode ser declarada junto a atribuição da string. ex: const numeroString = Number('456');
-//String()
+//String() ou toString()
 
 console.log(numero + Number(numeroString)); //dessa forma a função Number converte a string em number
+
+let meuNome = "leandro";
+
+console.log(Number(meuNome)); // como a variável meuNome não contém apenas números ele retorna o erro NaN (Not a Number, não é número);
+console.log( + meuNome); // a conversão também retornará NaN
