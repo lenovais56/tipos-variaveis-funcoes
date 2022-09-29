@@ -1,6 +1,6 @@
-<h1 align="center" font-size="bold"> Curso Javascript - Tipos, variáveis e funções </h1>
+# <h1 align="center" font-size="bold"> Curso Javascript - Tipos, variáveis e funções </h1>
 
-# Resumo do curso
+## 📝 Resumo do curso
 
 <p>
   
