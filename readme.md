@@ -16,7 +16,8 @@
 - `4`: Tipos de variáveis: var, let e const.
 - `5`: Truthy, falsy, null e undefined.
 - `6`: Conversões de tipos com Number() e String().
-- `7`: Testes e identificação de erros. 
+- `7`: Testes e identificação de erros.
+- `8`: Operador ternário.
 
 ## ✔️ Tecnologias utilizadas
 
