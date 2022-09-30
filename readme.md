@@ -17,7 +17,10 @@
 - `5`: Truthy, falsy, null e undefined.
 - `6`: Conversões de tipos com Number() e String().
 - `7`: Testes e identificação de erros.
-- `8`: Operador ternário.
+- `8`: Operadores de comparação. 
+- `9`: Operador ternário.
+- `10`: Template literal (strings)
+- `11`: Funções, parametros, expressão de função e arrow function.
 
 ## ✔️ Tecnologias utilizadas
 
